@@ -1,0 +1,2 @@
+# xshell_color_scheme
+xshell_color_scheme
